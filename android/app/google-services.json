@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455532096597",
+    "firebase_url": "https://flash-chat-ahad.firebaseio.com",
+    "project_id": "flash-chat-ahad",
+    "storage_bucket": "flash-chat-ahad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455532096597:android:e4f81daed25f26a8",
+        "android_client_info": {
+          "package_name": "com.ahad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455532096597-1fgr64kkqn01t9ms4sb4s09fkf1l82o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcCWDcJ8qLcR29Ns68LOaXaRqWiZriZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455532096597-1fgr64kkqn01t9ms4sb4s09fkf1l82o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
